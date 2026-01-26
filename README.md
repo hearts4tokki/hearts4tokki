@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**hearts4tokki/hearts4tokki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8bc981e1-e39b-4772-9845-52e5f60605ba"
+    width="400"
+    style="border-radius:20px; box-shadow:0 0 30px rgba(0,0,0,0.6);"
+  >
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+☆ <a href="#">Ata</a> ☆
+<a href="#">Kin rentry</a> ☆
+<a href="#">PT info</a> ☆
+</p>
