@@ -2,7 +2,7 @@
 <p align="center">꒰ ♡ welcome ♡ ꒱</p>
 
 <p align="center">
-  <img src="mitsuri.png" width="400">
+  <img src="02742f26672e5499f352206a3773720e.jpg" width="400">
 </p>
 
 <p align="center">
