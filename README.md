@@ -10,3 +10,6 @@
 <a href="#">Kin rentry</a> ☆
 <a href="#">PT info</a> ☆
 </p>
+
+<p align="center">⋆｡°✩ work in progress ✩°｡⋆</p>
+
