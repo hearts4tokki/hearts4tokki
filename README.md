@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-☆ <a href="#">Ata</a> ☆
-<a href="#">Kin rentry</a> ☆
-<a href="#">PT info</a> ☆
+☆ <a href="#">Links</a> ☆
+<a href="#">about me</a> ☆
+<a href="#">info</a> ☆
 </p>
 
 <p align="center">⋆｡°✩ work in progress ✩°｡⋆</p>
